@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on: Open Source Backend and Machine Learning Projects<br>👯 I'm looking to collaborate on: Open Source Backend and ML Initiatives<br>🤝 I'm looking for help with: Advanced Backend Development Techniques<br>🌱 I'm currently learning: Deep Learning and Go Language Ecosystem<br>💬 Ask me about: Backend Architecture, Python, Go, Machine Learning<br>⚡ Fun fact
+🔭 I'm currently working on: Open Source Backend and Machine Learning Projects<br>👯 I'm looking to collaborate on: Open Source Backend and ML Initiatives<br>🤝 I'm looking for help with: Advanced Backend Development Techniques<br>🌱 I'm currently learning: Deep Learning and Go Language Ecosystem<br>💬 Ask me about: Backend Architecture, Python, Go, Machine Learning<br>
 
 
 ## 🌐 Socials:
